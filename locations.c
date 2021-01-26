@@ -8,10 +8,6 @@
 char choice, control;
 char *buffer;
 
-/*void reset_choice() {
-    choice = '\0';
-}*/
-
 // KONIEC GRY
 void the_end() {
     sleep(1);
