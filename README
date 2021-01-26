@@ -1,0 +1,8 @@
+Controls: w, a, s, d.
+
+Compile using following commands:
+
+gcc -Wall -c base_functions.c
+gcc -Wall -c main.c
+gcc -Wall -c locations.c
+gcc -o solar main.o locations.o base_functions.o
