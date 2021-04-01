@@ -18,6 +18,8 @@ gcc -o solar main.o locations.o base_functions.o
 Use w, a, s, d keys to move around the world when prompted.
 The game is autosaved each time a chapter is completed.
 
+## Status
+This game may become more developed in the future. However, at this point it is completely playable.
 
 ## Contributing
 Further development and modifications are welcome.
